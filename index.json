@@ -1,0 +1,11 @@
+{
+  "org": "oconnor663",
+  "repo": "duct.rs",
+  "versions": [
+    {
+      "commit": "9414b8ff719b4c1137e98368bb7f7051eea16295",
+      "tag": "1.1.1",
+      "parsed_at": "2026-11-22T10:54:20.087827+00:00"
+    }
+  ]
+}
