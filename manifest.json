@@ -83,7 +83,9 @@
           "githubUrl": "https://github.com/Stebalien/tempfile",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/9414b8ff719b4c1137e98368bb7f7051eea16295/chunk-001.nq.gz",
+      "dep": "dep/9414b8ff719b4c1137e98368bb7f7051eea16295.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
