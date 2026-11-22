@@ -36,6 +36,53 @@
       ],
       "ast": [
         "aggregate/ast/9414b8ff719b4c1137e98368bb7f7051eea16295/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/9414b8ff719b4c1137e98368bb7f7051eea16295.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "os_pipe",
+          "ecosystem": "CARGO",
+          "version": "1.0.0",
+          "githubOrg": "oconnor663",
+          "githubRepo": "os_pipe.rs",
+          "githubCommit": "84a8148e68f18f5dcdc817377e00c3ce2b837b4d",
+          "githubTag": "1.0.0",
+          "githubUrl": "https://github.com/oconnor663/os_pipe.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "shared_child",
+          "ecosystem": "CARGO",
+          "version": "1.1.0",
+          "githubOrg": "oconnor663",
+          "githubRepo": "shared_child.rs",
+          "githubCommit": "031888c746506bbd30922ad13d490d667d038249",
+          "githubTag": "1.1.0",
+          "githubUrl": "https://github.com/oconnor663/shared_child.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "shared_thread",
+          "ecosystem": "CARGO",
+          "version": "0.2.0",
+          "githubOrg": "oconnor663",
+          "githubRepo": "shared_thread.rs",
+          "githubCommit": "ae538bae7028182b5a9d4033218ee98af45b2162",
+          "githubTag": "0.2.0",
+          "githubUrl": "https://github.com/oconnor663/shared_thread.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tempfile",
+          "ecosystem": "CARGO",
+          "version": "3.3.0",
+          "githubOrg": "Stebalien",
+          "githubRepo": "tempfile",
+          "githubCommit": "1a40687e06eb656044e3d2dffa1379f04b3ef3fd",
+          "githubTag": "v3.3.0",
+          "githubUrl": "https://github.com/Stebalien/tempfile",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
